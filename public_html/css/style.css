@@ -2,7 +2,7 @@
 GENERAL
 *************************************************/
 body {
-    font-family: 'Asul', sans-serif;
+   font-family: 'Titillium Web', sans-serif;
 }
 section {
     color: white;
@@ -24,7 +24,7 @@ a {
 }
 
 img {
-    max-width: 100%
+    max-width: 70%
 }
 
 h3 {
@@ -46,7 +46,7 @@ header {
 }
 
 h1 {
-   font-family: 'Asul', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
     margin: 15px 0;
     font-size: 40px;
     line-height: 0.8em;
@@ -166,7 +166,7 @@ CONTACT PAGE
 COLORS
 ************************************************/
 body {
-    background-image: url("http://fullhdpictures.com/wp-content/uploads/2015/10/HD-Los-Angeles-Dodgers-Wallpapers.jpg");
+    background-image: url("http://fullhdpictures.com/wp-content/uploads/2015/10/Magnificent-Los-Angeles-Dodgers-Wallpaper.jpg");
     background-size: 90%
 }
 
